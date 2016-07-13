@@ -1,0 +1,11 @@
+fb-config.js
+/htdocs/*.gif
+/htdocs/*.woff
+/htdocs/*.woff2
+/htdocs/*.jpg
+/htdocs/*.jpeg
+/htdocs/*.svg
+/htdocs/*.ttf
+/htdocs/*.eot
+/htdocs/js/app.js
+/node_modules

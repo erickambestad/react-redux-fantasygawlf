@@ -1,0 +1,22 @@
+html,
+body {
+    height: 100%;
+    #app {
+      height: 100%;
+      & > div {
+        height: 100%;
+      }
+      #background {
+        position: fixed;
+        top: 0;
+        left: 0;
+        height: 100%;
+        width: 100%;
+        opacity: 0.15;
+        z-index: 1;
+      }
+      .container {
+        z-index: 2;
+      }
+    }
+}
